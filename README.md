@@ -20,7 +20,7 @@
             <td>Add Product</td>
         </tr>
         <tr>
-            <!-- <td>Tiaraningsih</td> -->
+            <td>Tiaraningsih</td>
             <td>312110203</td>
             <td>TI.21.C.6</td>
             <td>Add Product</td>
