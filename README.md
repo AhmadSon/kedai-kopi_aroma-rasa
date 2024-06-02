@@ -14,7 +14,7 @@
             <td>Design User Interface (Front End, PHP, CSS, Js)</td>
         </tr>
         <tr>
-            <!-- <td>Ariqoh Zulaika Zuhrah</td> -->
+            <td>Ariqoh Zulaika Zuhrah</td>
             <td>312110138</td>
             <td>TI.21.C.6</td>
             <td>Add Product</td>
