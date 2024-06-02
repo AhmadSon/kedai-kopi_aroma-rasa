@@ -46,4 +46,4 @@
 
 
 ##  Server DEMO
-Untuk mencoba aplikasi ini silahkan klik [DEMO](https://pockier-nose.000webhostapp.com/) ini<p>
+Untuk mencoba aplikasi ini silahkan klik [Aroma Rasa](https://aroma-rasa.shop/) ini<p>
