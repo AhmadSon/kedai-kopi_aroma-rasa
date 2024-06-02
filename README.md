@@ -26,7 +26,7 @@
             <td>Add Product</td>
         </tr>
         <tr>
-            <!-- <td>Nurul Najwa Sabilla</td> -->
+            <td>Nurul Najwa Sabilla</td>
             <td>312110451</td>
             <td>TI.21.C.6</td>
             <td>Design Header Images</td>
