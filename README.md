@@ -46,4 +46,4 @@
 
 
 ##  Server DEMO
-Untuk mencoba aplikasi ini silahkan klik [DEMO](https://dinkadealer.site/) ini<p>
+Untuk mencoba aplikasi ini silahkan klik [DEMO](https://pockier-nose.000webhostapp.com/) ini<p>
