@@ -32,7 +32,7 @@
             <td>Design Header Images</td>
         </tr>
         <tr>
-            <!-- <td>Widiya Setiyaningrum</td> -->
+            <td>Widiya Setiyaningrum</td>
             <td>312110530</td>
             <td>TI.21.C.6</td>
             <td>Publikasi Aplikasi (Web Hosting)</td>
