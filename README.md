@@ -14,25 +14,25 @@
             <td>Design User Interface (Front End, PHP, CSS, Js)</td>
         </tr>
         <tr>
-            <td>Ariqoh Zulaika Zuhrah</td>
+            <!-- <td>Ariqoh Zulaika Zuhrah</td> -->
             <td>312110138</td>
             <td>TI.21.C.6</td>
             <td>Add Product</td>
         </tr>
         <tr>
-            <td>Tiaraningsih</td>
+            <!-- <td>Tiaraningsih</td> -->
             <td>312110203</td>
             <td>TI.21.C.6</td>
             <td>Add Product</td>
         </tr>
         <tr>
-            <td>Nurul Najwa Sabilla</td>
+            <!-- <td>Nurul Najwa Sabilla</td> -->
             <td>312110451</td>
             <td>TI.21.C.6</td>
             <td>Design Header Images</td>
         </tr>
         <tr>
-            <td>Widiya Setiyaningrum</td>
+            <!-- <td>Widiya Setiyaningrum</td> -->
             <td>312110530</td>
             <td>TI.21.C.6</td>
             <td>Publikasi Aplikasi (Web Hosting)</td>
